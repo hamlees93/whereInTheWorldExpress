@@ -1,6 +1,8 @@
-# Express Boilerplate
+# Where In The World Express
 
-A boiler plate to get an express app started with ease. Note this is purely for a backend express app, with no view.
+An express API for a geo-located bloggin app. 
+
+Effectively, a way for people to share there travel experiences in a more specific way, by uploading their images and posts to an interactive map
 
 ### Steps
 
